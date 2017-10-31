@@ -1,0 +1,14 @@
+{
+  "Department": [
+    { "id": 0, "name": "Web development" }
+    ,{ "id": 1, "name": "Management" }
+  ]
+  ,"Employee": [
+    {
+      "id": 0
+      ,"firstName": "Ay-Kherel"
+      ,"lastName": "Ondar"
+      ,"departmentId": 0
+    }
+  ]
+}
